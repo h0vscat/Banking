@@ -1,5 +1,5 @@
 # Banking
-    This is an simulation of a real-life ATM machine.
+    This is a simulation of a real-life ATM machine.
 
 ## BANK MANGER
     Bank manager has default username "admin" and default password "CS207fun"
