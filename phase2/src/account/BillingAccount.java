@@ -12,7 +12,7 @@ import java.util.Date;
  * @author zhaojuna
  * @version 1.0
  */
-public class BillingAccount extends Account {
+public class BillingAccount extends Account{
 
     private final String payeeName;
 

@@ -11,7 +11,7 @@ import java.util.*;
 /**
  * Produces account object with given specifications.
  *
- * @author zhaojuna
+ * @author zhaojuna renyicao jinghanwang
  * @version 1.0
  */
 final class AccountFactory implements Serializable {

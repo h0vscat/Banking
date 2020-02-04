@@ -8,7 +8,7 @@ import java.util.TreeMap;
 /**
  * Performs tasks & holds data for an atm machine (e.g. handling cash).
  *
- * @author zhaojuna
+ * @author zhaojuna renyicao jinghanwang
  * @version 1.0
  */
 public class AtmMachine implements Serializable {

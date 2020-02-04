@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * Stores & categorizes accounts for {@linkplain User}. Can perform filtered account search by type.
  *
- * @author zhaojuna
+ * @author zhaojuna renyicao jinghanwang
  * @version 1.0
  */
 final class AccountStorageManager implements Serializable {

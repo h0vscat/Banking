@@ -17,7 +17,7 @@ import java.util.TimerTask;
  * <p>
  * Only one instance of this class is allowed at one time.
  *
- * @author zhaojuna
+ * @author zhaojuna renyicao jinghanwang
  * @version 1.0
  */
 public final class AtmTime extends Observable implements Serializable {

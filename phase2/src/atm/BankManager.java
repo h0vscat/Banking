@@ -12,7 +12,7 @@ import java.util.*;
 /**
  * The manager class represent a manger, responsible for managing accounts and initialize time for the ATMs.
  *
- * @author zhaojuna
+ * @author zhaojuna renyicao jinghanwang
  * @version 1.0
  */
 public class BankManager implements Serializable {
