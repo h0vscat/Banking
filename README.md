@@ -1,18 +1,18 @@
-PROJECT TITLE
+##Banking
     This is an simulation of a real-life ATM machine.
 
-BANK MANGER
+##BANK MANGER
     Bank manager has default username "admin" and default password "CS207fun"
 
-USER CREATION
+##USER CREATION
     Users are created with a given generated password, which will be printed upon creation inside manager menu.
     Password contains only upper-case, lower-case and numbers with a length between 12 and 24 (inclusive)
     Username must have a length between 5 and 15 (inclusive)
 
-TO EXIT PROGRAM
+##TO EXIT PROGRAM
     You need to keep pressing X until the program closes. Force terminated running instances will not be serialized.
 
-FILES
+##FILES
     Program related files are stored in phase1/data.
     - accReq.txt is for account request. It SHOULD be program generated with format (username accountType isPrimary)
     - alert.txt stores alert messages from atm machine when stock level is low. It can be seen in manager menu.
@@ -25,7 +25,7 @@ FILES
       UNIVERSITY_OF_TORONTO
     - testData.txt is used ONLY for TESTING purposes
 
-PROGRAM START
+##PROGRAM START
     The main class is /src/ui/MainFrame.java. You need to set initial time when there is no serialized manager found.
     The program shuts down every day between 23:59 and 00:01. Between these times, you are unable to perform any
     actions and all windows will be force-disposed. The program will restart to login menu after the period ends.
